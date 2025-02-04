@@ -1,4 +1,4 @@
-package logic_operators
+package basic
 
 fun main() {
     val a = true

@@ -1,4 +1,4 @@
-package number_and_strings
+package basic
 
  fun main() {
 

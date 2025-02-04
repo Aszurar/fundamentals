@@ -1,4 +1,4 @@
-package math_operators
+package basic
 
 import kotlin.math.ceil
 import kotlin.math.floor

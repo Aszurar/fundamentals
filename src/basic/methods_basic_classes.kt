@@ -1,4 +1,4 @@
-package methods_basic_classes
+package basic
 
 fun main() {
     val age = 25
